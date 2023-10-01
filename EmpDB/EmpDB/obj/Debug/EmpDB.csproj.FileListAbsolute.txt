@@ -1,0 +1,8 @@
+C:\TINFO200\EmpDB\EmpDB\obj\Debug\EmpDB.csproj.AssemblyReference.cache
+C:\TINFO200\EmpDB\EmpDB\obj\Debug\EmpDB.csproj.SuggestedBindingRedirects.cache
+C:\TINFO200\EmpDB\EmpDB\obj\Debug\EmpDB.csproj.CoreCompileInputs.cache
+C:\TINFO200\EmpDB\EmpDB\bin\Debug\EmpDB.exe.config
+C:\TINFO200\EmpDB\EmpDB\bin\Debug\EmpDB.exe
+C:\TINFO200\EmpDB\EmpDB\bin\Debug\EmpDB.pdb
+C:\TINFO200\EmpDB\EmpDB\obj\Debug\EmpDB.exe
+C:\TINFO200\EmpDB\EmpDB\obj\Debug\EmpDB.pdb

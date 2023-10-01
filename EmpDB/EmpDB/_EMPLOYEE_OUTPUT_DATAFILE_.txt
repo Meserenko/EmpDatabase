@@ -1,0 +1,19 @@
+First: Alice
+Last: Anderson
+GPA: 3.90
+Email: aanderson@uw.edu
+
+First: Bob
+Last: Brashaw
+GPA: 3.30
+Email: bbashaw@uw.edu
+
+First: Carlos
+Last: Castaneda
+GPA: 2.90
+Email: ccastaneda@uw.edu
+
+First: David
+Last: Dickerson
+GPA: 2.50
+Email: ddickerson@uw.edu

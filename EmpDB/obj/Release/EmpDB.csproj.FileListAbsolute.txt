@@ -1,0 +1,8 @@
+C:\TINFO200\EmpDB\EmpDB\bin\Release\EmpDB.exe.config
+C:\TINFO200\EmpDB\EmpDB\bin\Release\EmpDB.exe
+C:\TINFO200\EmpDB\EmpDB\bin\Release\EmpDB.pdb
+C:\TINFO200\EmpDB\EmpDB\obj\Release\EmpDB.csproj.AssemblyReference.cache
+C:\TINFO200\EmpDB\EmpDB\obj\Release\EmpDB.csproj.SuggestedBindingRedirects.cache
+C:\TINFO200\EmpDB\EmpDB\obj\Release\EmpDB.csproj.CoreCompileInputs.cache
+C:\TINFO200\EmpDB\EmpDB\obj\Release\EmpDB.exe
+C:\TINFO200\EmpDB\EmpDB\obj\Release\EmpDB.pdb

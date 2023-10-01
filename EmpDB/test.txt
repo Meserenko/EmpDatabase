@@ -1,0 +1,46 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20230304191848
+Username: ILLIA\meser
+RunAs User: ILLIA\meser
+Configuration Name: 
+Machine: ILLIA (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoExit -Command & { Import-Module 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\Tools\Microsoft.VisualStudio.DevShell.dll'; Enter-VsDevShell -SetDefaultWindowTitle -InstallPath 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise' -StartInPath 'C:\TINFO200\EmpDB\EmpDB' }
+Process ID: 23532
+PSVersion: 5.1.22621.963
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.963
+BuildVersion: 10.0.22621.963
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is test.txt
+PS C:\TINFO200\EmpDB\EmpDB> .\bin\Debug\EmpDB.exe
+Email: blewis@gmail.com
+
+First: Jack
+Last: Black
+SSN: 113-13-1311
+Email: jblack@gmail.com
+
+First: Kate
+Last: Queen
+SSN: 212-32-0122
+Email: kqueen@gmail.com
+
+First: Sam
+Last: Martin
+SSN: 393-35-3733
+Email: smartin@gmail.com
+
+First: Bill
+Last: Lawrence
+SSN: 443-42-7744
+Email: blawrence@gmail.com
+PS C:\TINFO200\EmpDB\EmpDB> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20230304192114
+**********************
